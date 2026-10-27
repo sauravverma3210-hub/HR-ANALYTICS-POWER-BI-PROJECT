@@ -64,13 +64,6 @@ Screenshots will be added here later.
 
 ## Repository Structure
 
-```text
-HR-ANALYTICS-POWER-BI-PROJECT/
-├── README.md
-└── HR_Analytics_Dashboard (2).pbix
-```
-
-When screenshots are ready, you can use this structure:
 
 ```text
 HR-ANALYTICS-POWER-BI-PROJECT/
